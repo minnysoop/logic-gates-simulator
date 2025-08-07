@@ -17,4 +17,5 @@ As of now it only supports (~, +, *) but that's okay because the code knows how 
 - `(~(A + ~B) * (C + ~~D)) + ((~E * F) + ~(G * (H + ~I)))`
 
 And, positioning elements on the pane relative to others was a challenge since it's not known how complicated the expression will be. Here is a snapshot,
+
 <img width="1201" height="700" alt="Screenshot 2025-08-08 at 7 47 52 AM" src="https://github.com/user-attachments/assets/f8f51c9f-5361-4da1-873f-8c6a1b57b71d" />
